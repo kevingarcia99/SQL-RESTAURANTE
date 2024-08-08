@@ -6,7 +6,7 @@ El restaurante "Sabores del Mundo", es conocido por su auténtica cocina y su am
 Este restaurante lanzó un nuevo menú a principios de año y ha estado recopilando información detallada sobre las transacciones de los clientes durante 3 meses para identificar áreas de oportunidad y aprovechar al máximo sus datos para optimizar las ventas.
 
 ## Objetivo del Análisis
-Identificar cuáles son los productos del menú que han tenido más éxito y cuáles son los que menos han gustado a los clientes. Así como identificar puntos claves que le sirvan a los dueños del restaurante para mejorar su rendimiento y optimizar procesos.
+Identificar cuáles son los productos del menú que han tenido más éxito y cuáles son los que menos han gustado a los clientes. Así como detectar puntos claves que le sirvan a los dueños del restaurante para mejorar su rendimiento y optimizar procesos.
 
 ### Resultados del Análisis
 - El artículo que se pidió en menor cantidad fue el Chicken Tacos de la categoría Mexican por lo que se recomienda introducirlos en alguna promoción o modificarlo/eliminarlo para así poder tener un mayor número de ventas y generen mayor rendimiento.
